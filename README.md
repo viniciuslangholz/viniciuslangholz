@@ -1,4 +1,4 @@
-## Hello, I'm Vinicius Langholz ✌️
+## Oi, eu sou o Vinicius Langholz ✌️
 ### My links: 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/viniciuslangholz)
